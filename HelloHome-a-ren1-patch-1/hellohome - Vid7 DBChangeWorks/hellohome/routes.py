@@ -84,8 +84,7 @@ def search():
     baths = request.args.get('baths')
     is_filter = False
 
-    
-        
+
      # Search Conditions for filters
     filter_query = "no filters"
    
